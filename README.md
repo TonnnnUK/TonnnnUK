@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a Developer full time and on several side projects in my spare time :sunglasses:
+- 🔭 I’m currently working as a Full Stack Developer full time and on several side projects in my spare time :sunglasses:
 
 <!--
 **TonnnnUK/TonnnnUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
